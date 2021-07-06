@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCostumerDetailResponse
+	xmlns="http://ivosam.com.br"
+	xsi:schemaLocation="http://ivosam.com.br costumer-information.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<CostumerDetail>
+		<id>123</id>
+		<name>Bob</name>
+		<phone>999999999</phone>
+		<email>bob@gmail.com</email>
+	</CostumerDetail>
+</GetCostumerDetailResponse>

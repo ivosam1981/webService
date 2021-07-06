@@ -1,0 +1,17 @@
+br\com\ivosam\GetCustomerDetailRequest.class
+br\com\ivosam\DeleteCustomerResponse.class
+br\com\ivosam\GetAllCustomerDetailRequest.class
+com\ivosam\webservice\service\CustomerDetailService.class
+com\ivosam\webservice\soap\WebServiceConfig.class
+com\ivosam\webservice\bean\Customer.class
+br\com\ivosam\CustomerDetail.class
+br\com\ivosam\exceptions\WebServiceException.class
+br\com\ivosam\Status.class
+br\com\ivosam\package-info.class
+br\com\ivosam\DeleteCustomerRequest.class
+com\ivosam\webservice\DemoApplication.class
+br\com\ivosam\GetAllCustomerDetailResponse.class
+br\com\ivosam\GetCustomerDetailResponse.class
+br\com\ivosam\ObjectFactory.class
+com\ivosam\webservice\helper\Status.class
+com\ivosam\webservice\soap\CustomerDetailEndPoint.class

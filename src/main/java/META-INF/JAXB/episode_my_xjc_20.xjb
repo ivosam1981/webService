@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bindings version="2.1" xmlns="http://java.sun.com/xml/ns/jaxb">
+  <!--
+
+Este arquivo foi gerado pela Arquitetura JavaTM para Implementação de Referência (JAXB) de Bind XML, v2.3.2 
+Consulte <a href="https://javaee.github.io/jaxb-v2/">https://javaee.github.io/jaxb-v2/</a> 
+Todas as modificações neste arquivo serão perdidas após a recompilação do esquema de origem. 
+Gerado em: 2021.07.05 às 11:46:59 AM BRT 
+
+  -->
+  <bindings scd="x-schema::tns" xmlns:tns="http://ivosam.com.br">
+    <schemaBindings map="false">
+      <package name="br.com.ivosam"/>
+    </schemaBindings>
+    <bindings scd="tns:GetCustomerDetailRequest">
+      <class ref="br.com.ivosam.GetCustomerDetailRequest"/>
+    </bindings>
+    <bindings scd="tns:GetCustomerDetailResponse">
+      <class ref="br.com.ivosam.GetCustomerDetailResponse"/>
+    </bindings>
+    <bindings scd="~tns:CustomerDetail">
+      <class ref="br.com.ivosam.CustomerDetail"/>
+    </bindings>
+    <bindings scd="tns:GetAllCustomerDetailRequest">
+      <class ref="br.com.ivosam.GetAllCustomerDetailRequest"/>
+    </bindings>
+    <bindings scd="tns:GetAllCustomerDetailResponse">
+      <class ref="br.com.ivosam.GetAllCustomerDetailResponse"/>
+    </bindings>
+    <bindings scd="tns:DeleteCustomerRequest">
+      <class ref="br.com.ivosam.DeleteCustomerRequest"/>
+    </bindings>
+    <bindings scd="tns:DeleteCustomerResponse">
+      <class ref="br.com.ivosam.DeleteCustomerResponse"/>
+    </bindings>
+    <bindings scd="~tns:Status">
+      <typesafeEnumClass ref="br.com.ivosam.Status"/>
+    </bindings>
+  </bindings>
+</bindings>
+

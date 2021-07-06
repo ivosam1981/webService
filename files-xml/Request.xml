@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCostumerDetailRequest
+	xmlns="http://ivosam.com.br"
+	xsi:schemaLocation="http://ivosam.com.br costumer-information.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<id>123</id>
+</GetCostumerDetailRequest>
